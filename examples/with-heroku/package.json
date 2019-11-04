@@ -1,5 +1,6 @@
 {
-  "name": "razzle-examples-with-heroku",
+  "private": true,
+  "name": "@klarstrup/razzle-examples-with-heroku",
   "version": "3.0.0",
   "license": "MIT",
   "scripts": {

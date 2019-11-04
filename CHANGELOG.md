@@ -1,1 +1,1 @@
-See [Release Notes](https://github.com/jaredpalmer/razzle/releases)
+See [Release Notes](https://github.com/klarstrup/razzle/releases)

@@ -1,5 +1,6 @@
 {
-  "name": "razzle-examples-with-afterjs",
+  "private": true,
+  "name": "@klarstrup/razzle-examples-with-afterjs",
   "version": "3.0.0",
   "license": "MIT",
   "scripts": {

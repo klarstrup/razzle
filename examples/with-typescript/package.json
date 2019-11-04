@@ -1,5 +1,6 @@
 {
-  "name": "razzle-examples-with-typescript",
+  "private": true,
+  "name": "@klarstrup/razzle-examples-with-typescript",
   "version": "3.0.0",
   "license": "MIT",
   "scripts": {

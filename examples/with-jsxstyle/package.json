@@ -1,5 +1,6 @@
 {
-  "name": "razzle-examples-with-jsxstyle",
+  "private": true,
+  "name": "@klarstrup/razzle-examples-with-jsxstyle",
   "version": "3.0.0",
   "license": "MIT",
   "scripts": {
@@ -16,6 +17,6 @@
     "react-router-dom": "^4.2.2"
   },
   "devDependencies": {
-    "razzle": "^3.0.0"
+    "@klarstrup/razzle": "^3.0.0"
   }
 }

@@ -1,5 +1,6 @@
 {
-  "name": "razzle-examples-with-styled-components",
+  "private": true,
+  "name": "@klarstrup/razzle-examples-with-styled-components",
   "version": "3.0.0",
   "license": "MIT",
   "scripts": {

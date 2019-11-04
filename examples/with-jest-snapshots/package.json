@@ -1,5 +1,6 @@
 {
-  "name": "razzle-examples-with-jest",
+  "private": true,
+  "name": "@klarstrup/razzle-examples-with-jest",
   "version": "3.0.0",
   "license": "MIT",
   "scripts": {

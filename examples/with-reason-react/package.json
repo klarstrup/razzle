@@ -1,5 +1,6 @@
 {
-  "name": "razzle-examples-with-reason-react",
+  "private": true,
+  "name": "@klarstrup/razzle-examples-with-reason-react",
   "version": "3.0.0",
   "license": "MIT",
   "scripts": {

@@ -1,5 +1,6 @@
 {
-  "name": "razzle-examples-with-vue",
+  "private": true,
+  "name": "@klarstrup/razzle-examples-with-vue",
   "version": "3.0.0",
   "license": "MIT",
   "scripts": {

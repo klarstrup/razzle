@@ -1,5 +1,6 @@
 {
-  "name": "razzle-examples-with-material-ui",
+  "private": true,
+  "name": "@klarstrup/razzle-examples-with-material-ui",
   "version": "3.0.0",
   "license": "MIT",
   "scripts": {
@@ -15,6 +16,6 @@
     "react-dom": "^16.8.6"
   },
   "devDependencies": {
-    "razzle": "^3.0.0"
+    "@klarstrup/razzle": "^3.0.0"
   }
 }

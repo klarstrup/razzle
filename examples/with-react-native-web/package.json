@@ -1,5 +1,6 @@
 {
-  "name": "razzle-examples-with-react-native-web",
+  "private": true,
+  "name": "@klarstrup/razzle-examples-with-react-native-web",
   "version": "3.0.0",
   "license": "MIT",
   "scripts": {

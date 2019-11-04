@@ -1,5 +1,6 @@
 {
-  "name": "razzle-examples-with-hyperapp",
+  "private": true,
+  "name": "@klarstrup/razzle-examples-with-hyperapp",
   "version": "3.0.0",
   "license": "MIT",
   "scripts": {
@@ -15,6 +16,6 @@
   },
   "devDependencies": {
     "babel-plugin-transform-react-jsx": "^6.23.0",
-    "razzle": "^3.0.0"
+    "@klarstrup/razzle": "^3.0.0"
   }
 }

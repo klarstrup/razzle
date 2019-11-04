@@ -1,5 +1,6 @@
 {
-  "name": "razzle-examples-with-mdx",
+  "private": true,
+  "name": "@klarstrup/razzle-examples-with-mdx",
   "version": "3.0.0",
   "scripts": {
     "start": "razzle start",

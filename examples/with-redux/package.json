@@ -1,5 +1,6 @@
 {
-  "name": "razzle-examples-with-redux",
+  "private": true,
+  "name": "@klarstrup/razzle-examples-with-redux",
   "version": "3.0.0",
   "license": "MIT",
   "scripts": {

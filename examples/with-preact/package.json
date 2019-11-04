@@ -1,5 +1,6 @@
 {
-  "name": "razzle-examples-with-preact",
+  "private": true,
+  "name": "@klarstrup/razzle-examples-with-preact",
   "version": "3.0.0",
   "license": "MIT",
   "scripts": {
@@ -15,6 +16,6 @@
   },
   "devDependencies": {
     "@babel/plugin-transform-react-jsx": "^7.0.0",
-    "razzle": "^3.0.0"
+    "@klarstrup/razzle": "^3.0.0"
   }
 }

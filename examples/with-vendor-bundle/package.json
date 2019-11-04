@@ -1,5 +1,6 @@
 {
-  "name": "razzle-examples-with-vendor-bundle",
+  "private": true,
+  "name": "@klarstrup/razzle-examples-with-vendor-bundle",
   "version": "3.0.0",
   "license": "MIT",
   "scripts": {
