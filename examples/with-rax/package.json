@@ -19,7 +19,7 @@
     "rax-view": "^0.6.5"
   },
   "devDependencies": {
-    "babel-preset-rax": "^0.6.5",
-    "@klarstrup/razzle": "^3.0.0"
+    "@klarstrup/razzle": "^3.0.0",
+    "babel-preset-rax": "^0.6.5"
   }
 }

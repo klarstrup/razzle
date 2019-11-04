@@ -4,8 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@klarstrup/razzle-dev-utils": "^3.0.0",
     "elm-hot-loader": "^0.5.4",
-    "elm-webpack-loader": "4.5.0",
-    "@klarstrup/razzle-dev-utils": "^3.0.0"
+    "elm-webpack-loader": "4.5.0"
   }
 }

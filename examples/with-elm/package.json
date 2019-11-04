@@ -15,8 +15,8 @@
     "express": "^4.15.4"
   },
   "devDependencies": {
+    "@klarstrup/razzle": "^3.0.0",
     "elm-hot-loader": "^0.5.4",
-    "elm-webpack-loader": "4.5.0",
-    "@klarstrup/razzle": "^3.0.0"
+    "elm-webpack-loader": "4.5.0"
   }
 }

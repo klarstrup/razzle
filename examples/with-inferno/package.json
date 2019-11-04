@@ -17,8 +17,8 @@
     "inferno-server": "5.6.1"
   },
   "devDependencies": {
+    "@klarstrup/razzle": "^3.0.0",
     "babel-plugin-inferno": "5.1.0",
-    "inferno-devtools": "5.6.1",
-    "@klarstrup/razzle": "^3.0.0"
+    "inferno-devtools": "5.6.1"
   }
 }

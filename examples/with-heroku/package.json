@@ -12,8 +12,8 @@
     "deploy": "git push heroku master"
   },
   "dependencies": {
-    "express": "^4.15.2",
     "@klarstrup/razzle": "^3.0.0",
+    "express": "^4.15.2",
     "razzle-heroku": "^3.0.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0"

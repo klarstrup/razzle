@@ -19,7 +19,7 @@
     "sass-loader": "^7.0.3"
   },
   "devDependencies": {
-    "jest": "^23.1.0",
-    "@klarstrup/razzle": "^3.0.0"
+    "@klarstrup/razzle": "^3.0.0",
+    "jest": "^23.1.0"
   }
 }

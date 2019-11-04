@@ -17,10 +17,10 @@
     "vue-server-renderer": "^2.6.10"
   },
   "devDependencies": {
-    "connect-history-api-fallback": "^1.6.0",
-    "eslint-plugin-vue": "^5.2.2",
     "@klarstrup/razzle": "^3.0.0",
     "@klarstrup/razzle-plugin-vue": "^3.0.0",
+    "connect-history-api-fallback": "^1.6.0",
+    "eslint-plugin-vue": "^5.2.2",
     "vue-template-compiler": "^2.6.10"
   }
 }
