@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "@klarstrup/razzle-examples-with-jest",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "license": "MIT",
   "scripts": {
     "start": "razzle start",
@@ -16,7 +16,7 @@
     "react-router-dom": "^4.2.2"
   },
   "devDependencies": {
-    "@klarstrup/razzle": "^3.0.0",
+    "@klarstrup/razzle": "^3.1.0",
     "react-test-renderer": "^16.0.0"
   }
 }

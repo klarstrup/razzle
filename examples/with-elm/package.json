@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "@klarstrup/razzle-examples-with-elm",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "license": "MIT",
   "scripts": {
     "postinstall": "elm-package install -y",
@@ -15,7 +15,7 @@
     "express": "^4.15.4"
   },
   "devDependencies": {
-    "@klarstrup/razzle": "^3.0.0",
+    "@klarstrup/razzle": "^3.1.0",
     "elm-hot-loader": "^0.5.4",
     "elm-webpack-loader": "4.5.0"
   }

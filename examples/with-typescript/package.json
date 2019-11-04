@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "@klarstrup/razzle-examples-with-typescript",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "license": "MIT",
   "scripts": {
     "start": "razzle start",
@@ -16,8 +16,8 @@
     "react-router-dom": "^5.0.1"
   },
   "devDependencies": {
-    "@klarstrup/razzle": "^3.0.0",
-    "@klarstrup/razzle-plugin-typescript": "^3.0.0",
+    "@klarstrup/razzle": "^3.1.0",
+    "@klarstrup/razzle-plugin-typescript": "^3.1.0",
     "@types/express": "^4.17.0",
     "@types/jest": "^23.3.14",
     "@types/node": "^12.6.6",

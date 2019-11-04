@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "@klarstrup/razzle-examples-with-react-router-3",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "license": "MIT",
   "scripts": {
     "start": "razzle start",
@@ -11,7 +11,7 @@
     "start:prod": "NODE_ENV=production node build/server.js"
   },
   "dependencies": {
-    "@klarstrup/razzle": "^3.0.0",
+    "@klarstrup/razzle": "^3.1.0",
     "express": "^4.16.2",
     "prop-types": "^15.6.1",
     "react": "^16.2.0",

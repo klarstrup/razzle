@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "@klarstrup/razzle-examples-with-polka",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "license": "MIT",
   "scripts": {
     "start": "razzle start",
@@ -16,6 +16,6 @@
     "serve-static": "^1.13.2"
   },
   "devDependencies": {
-    "@klarstrup/razzle": "^3.0.0"
+    "@klarstrup/razzle": "^3.1.0"
   }
 }
