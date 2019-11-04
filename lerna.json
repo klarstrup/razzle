@@ -17,7 +17,7 @@
     }
   },
   "changelog": {
-    "repo": "jaredpalmer/razzle",
+    "repo": "klarstrup/razzle",
     "labels": {
       "tag: new feature": ":rocket: New Feature",
       "tag: breaking change": ":boom: Breaking Change",

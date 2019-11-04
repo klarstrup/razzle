@@ -1,5 +1,5 @@
 {
-  "name": "razzle-plugin-react",
+  "name": "@klarstrup/razzle-plugin-react",
   "version": "2.1.1",
   "main": "index.js",
   "license": "MIT"

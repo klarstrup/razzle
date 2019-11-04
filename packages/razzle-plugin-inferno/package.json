@@ -1,5 +1,5 @@
 {
-  "name": "razzle-plugin-inferno",
+  "name": "@klarstrup/razzle-plugin-inferno",
   "version": "2.2.0",
   "main": "index.js",
   "license": "MIT"

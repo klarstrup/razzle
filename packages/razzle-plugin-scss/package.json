@@ -1,5 +1,5 @@
 {
-  "name": "razzle-plugin-scss",
+  "name": "@klarstrup/razzle-plugin-scss",
   "version": "3.0.0",
   "description": "Use SCSS/SASS with Razzle",
   "main": "index.js",
@@ -20,6 +20,6 @@
   },
   "devDependencies": {
     "jest": "^23.1.0",
-    "razzle": "^3.0.0"
+    "@klarstrup/razzle": "^3.0.0"
   }
 }

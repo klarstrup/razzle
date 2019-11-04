@@ -1,5 +1,5 @@
 {
-  "name": "razzle-plugin-typescript",
+  "name": "@klarstrup/razzle-plugin-typescript",
   "version": "3.0.0",
   "description": "Use TypeScript with Razzle",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "ts-loader": "^5.2.1"
   },
   "devDependencies": {
-    "razzle": "^3.0.0"
+    "@klarstrup/razzle": "^3.0.0"
   },
   "peerDependencies": {
     "typescript": ">=2.4.1"

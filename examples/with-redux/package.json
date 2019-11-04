@@ -20,6 +20,6 @@
     "serialize-javascript": "^1.3.0"
   },
   "devDependencies": {
-    "razzle": "^3.0.0"
+    "@klarstrup/razzle": "^3.0.0"
   }
 }
